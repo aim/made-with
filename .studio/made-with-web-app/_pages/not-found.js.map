@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function page() {\r\n  return (\r\n    <area\r\n      style={{\r\n        size: \"full\",\r\n        displayType: \"flex\",\r\n        justifyContent: \"center\",\r\n        alignItems: \"center\",\r\n        padding: \"extra-large\",\r\n        cornerRadius: \"large\",\r\n        backgroundColor: \"surface-fill-lowest-emphasis\",\r\n      }}\r\n    >\r\n      <heading level={1} style={{ maxWidth: 200 }}>\r\n        <vector-graphic name='404' label='not-found' />\r\n      </heading>\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,GAAO,CAC7B,OACE,uCAAC,QACC,MAAO,CACL,KAAM,OACN,YAAa,OACb,eAAgB,SAChB,WAAY,SACZ,QAAS,cACT,aAAc,QACd,gBAAiB,8BACnB,GAEA,uCAAC,WAAQ,MAAO,EAAG,MAAO,CAAE,SAAU,GAAI,GACxC,uCAAC,kBAAe,KAAK,MAAM,MAAM,YAAY,CAC/C,CACF,CAEJ",
+  "names": ["page"]
+}

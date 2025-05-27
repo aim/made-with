@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Guest User",
+    "description": "A user who is not authenticated in the system.",
+    "roles": ["guest"],
+    "settings": {
+      "preferences": {},
+      "permissions": {}
+    }
+  },
+  {
+    "name": "Registered User",
+    "description": "A user who is authenticated in the system.",
+    "roles": ["user"],
+    "settings": {
+      "preferences": {},
+      "permissions": {}
+    }
+  }
+]

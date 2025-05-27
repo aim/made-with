@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { label, row, column, hidden } = props;\r\n\r\n  const hide = view.state(() => {\r\n    return hidden.value.includes(label);\r\n  });\r\n\r\n  const press = () => {\r\n    if (!hide.value) {\r\n      hidden.value.push(label);\r\n    }\r\n  };\r\n\r\n  const unmount = () => {\r\n    hide.destroy();\r\n  };\r\n\r\n  return (\r\n    <area\r\n      type='button'\r\n      label={label ?? \"hide-box\"}\r\n      style={{\r\n        gridRowStart: row ?? 1,\r\n        gridColumnStart: column ?? 1,\r\n        cornerRadius: \"medium\",\r\n        backgroundColor: \"surface-fill\",\r\n      }}\r\n      hide={hide}\r\n      onPress={press}\r\n      onUnmount={unmount}\r\n    />\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,MAAAC,EAAO,IAAAC,EAAK,OAAAC,EAAQ,OAAAC,CAAO,EAAIJ,EAEjCK,EAAO,uBAAK,MAAM,IACfD,EAAO,MAAM,SAASH,CAAK,CACnC,EAEKK,EAAQ,IAAM,CACbD,EAAK,OACRD,EAAO,MAAM,KAAKH,CAAK,CAE3B,EAEMM,EAAU,IAAM,CACpBF,EAAK,QAAQ,CACf,EAEA,OACE,uCAAC,QACC,KAAK,SACL,MAAOJ,GAAA,KAAAA,EAAS,WAChB,MAAO,CACL,aAAcC,GAAA,KAAAA,EAAO,EACrB,gBAAiBC,GAAA,KAAAA,EAAU,EAC3B,aAAc,SACd,gBAAiB,cACnB,EACA,KAAME,EACN,QAASC,EACT,UAAWC,EACb,CAEJ",
+  "names": ["component", "props", "label", "row", "column", "hidden", "hide", "press", "unmount"]
+}

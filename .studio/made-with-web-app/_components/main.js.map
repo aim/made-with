@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { children } = props;\r\n\r\n  return (\r\n    <area type='main' style={{ flexGrow: 1 }}>\r\n      {children}\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,SAAAC,CAAS,EAAID,EAErB,OACE,uCAAC,QAAK,KAAK,OAAO,MAAO,CAAE,SAAU,CAAE,GACpCC,CACH,CAEJ",
+  "names": ["component", "props", "children"]
+}

@@ -1,0 +1,1 @@
+export default function n(o){const{todo:e}=o,l=window.__STUDIO__.view.state(e.title),t=window.__STUDIO__.view.state(e.completed);return window.__STUDIO__.core.createComponent("list-item",{onPress:()=>t.value=!t.value,style:{textDecoration:t.value?"line-through":"none"}},window.__STUDIO__.core.createComponent("text",{value:l}))}

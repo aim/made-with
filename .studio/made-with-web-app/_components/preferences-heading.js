@@ -1,0 +1,1 @@
+export default function l(e){const{children:t,soon:n=!1}=e;return window.__STUDIO__.core.createComponent("heading",{level:2,style:{displayType:"flex",justifyContent:"start",alignItems:"center",gutter:"medium",textRole:"title",textSize:"small"}},t,n?window.__STUDIO__.core.createComponent("vector-graphic",{name:"soon",style:{width:30}}):"")}

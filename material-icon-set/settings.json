@@ -1,0 +1,19 @@
+{
+  "style": "outlined",
+  "fill": false,
+  "opticalSize": {
+    "min": 20,
+    "max": 48,
+    "default": 24
+  },
+  "weight": {
+    "min": 100,
+    "max": 700,
+    "default": 400
+  },
+  "grade": {
+    "min": -25,
+    "max": 200,
+    "default": 0
+  }
+}

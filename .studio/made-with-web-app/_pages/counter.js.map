@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function page() {\r\n  const count = view.state(0);\r\n\r\n  const increment = () => count.value++;\r\n  const decrement = () => count.value--;\r\n\r\n  return (\r\n    <area\r\n      style={{\r\n        size: \"full\",\r\n        displayType: \"flex\",\r\n        flexDirection: \"column\",\r\n        justifyContent: \"center\",\r\n        alignItems: \"center\",\r\n        gutter: \"large\",\r\n        cornerRadius: \"large\",\r\n        backgroundColor: \"surface-fill-lowest-emphasis\",\r\n      }}\r\n    >\r\n      <heading level='2'>\r\n        <number value={count} />\r\n      </heading>\r\n      <area\r\n        style={{\r\n          displayType: \"flex\",\r\n          justifyContent: \"center\",\r\n          alignItems: \"center\",\r\n        }}\r\n      >\r\n        <icon-button name='remove' onPress={decrement} />\r\n        <separator orientation='vertical' />\r\n        <icon-button name='add' onPress={increment} />\r\n      </area>\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,GAAO,CAC7B,MAAMC,EAAQ,uBAAK,MAAM,CAAC,EAK1B,OACE,uCAAC,QACC,MAAO,CACL,KAAM,OACN,YAAa,OACb,cAAe,SACf,eAAgB,SAChB,WAAY,SACZ,OAAQ,QACR,aAAc,QACd,gBAAiB,8BACnB,GAEA,uCAAC,WAAQ,MAAM,KACb,uCAAC,UAAO,MAAOA,EAAO,CACxB,EACA,uCAAC,QACC,MAAO,CACL,YAAa,OACb,eAAgB,SAChB,WAAY,QACd,GAEA,uCAAC,eAAY,KAAK,SAAS,QAzBf,IAAMA,EAAM,QAyBuB,EAC/C,uCAAC,aAAU,YAAY,WAAW,EAClC,uCAAC,eAAY,KAAK,MAAM,QA5BZ,IAAMA,EAAM,QA4BoB,CAC9C,CACF,CAEJ",
+  "names": ["page", "count"]
+}

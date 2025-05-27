@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { to, label, soon = false } = props;\r\n\r\n  const location = view.location();\r\n\r\n  return (\r\n    <area type='list-item'>\r\n      <link\r\n        to={to}\r\n        disabled={soon}\r\n        style={{\r\n          size: \"full\",\r\n          displayType: \"flex\",\r\n          justifyContent: \"start\",\r\n          alignItems: \"center\",\r\n          paddingBlock: \"medium\",\r\n          paddingInline: \"large\",\r\n          gutter: \"medium\",\r\n          cornerRadius: \"small\",\r\n          color: location.value.pathname === to ? \"primary\" : \"surface-fill\",\r\n        }}\r\n      >\r\n        <text value={label} />\r\n        {soon ? <vector-graphic name='soon' style={{ width: 30 }} /> : \"\"}\r\n      </link>\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,GAAAC,EAAI,MAAAC,EAAO,KAAAC,EAAO,EAAM,EAAIH,EAE9BI,EAAW,uBAAK,SAAS,EAE/B,OACE,uCAAC,QAAK,KAAK,aACT,uCAAC,QACC,GAAIH,EACJ,SAAUE,EACV,MAAO,CACL,KAAM,OACN,YAAa,OACb,eAAgB,QAChB,WAAY,SACZ,aAAc,SACd,cAAe,QACf,OAAQ,SACR,aAAc,QACd,MAAOC,EAAS,MAAM,WAAaH,EAAK,UAAY,cACtD,GAEA,uCAAC,QAAK,MAAOC,EAAO,EACnBC,EAAO,uCAAC,kBAAe,KAAK,OAAO,MAAO,CAAE,MAAO,EAAG,EAAG,EAAK,EACjE,CACF,CAEJ",
+  "names": ["component", "props", "to", "label", "soon", "location"]
+}

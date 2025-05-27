@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { key = \"\" } = props;\r\n\r\n  return (\r\n    <area\r\n      style={{\r\n        width: 200,\r\n        height: 200,\r\n        padding: key,\r\n        cornerRadius: \"medium\",\r\n        borderStyle: \"dashed\",\r\n        borderWidth: \"medium\",\r\n        borderColor: \"outline\",\r\n        backgroundColor: \"success-fill\",\r\n        textRole: \"label\",\r\n        textSize: \"small\",\r\n        textAlign: \"center\",\r\n      }}\r\n    >\r\n      <area\r\n        style={{\r\n          size: \"full\",\r\n          displayType: \"flex\",\r\n          justifyContent: \"center\",\r\n          alignItems: \"center\",\r\n          padding: \"medium\",\r\n          cornerRadius: \"medium\",\r\n          backgroundColor: \"info-fill\",\r\n        }}\r\n      >\r\n        <text value={key} />\r\n      </area>\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,IAAAC,EAAM,EAAG,EAAID,EAErB,OACE,uCAAC,QACC,MAAO,CACL,MAAO,IACP,OAAQ,IACR,QAASC,EACT,aAAc,SACd,YAAa,SACb,YAAa,SACb,YAAa,UACb,gBAAiB,eACjB,SAAU,QACV,SAAU,QACV,UAAW,QACb,GAEA,uCAAC,QACC,MAAO,CACL,KAAM,OACN,YAAa,OACb,eAAgB,SAChB,WAAY,SACZ,QAAS,SACT,aAAc,SACd,gBAAiB,WACnB,GAEA,uCAAC,QAAK,MAAOA,EAAK,CACpB,CACF,CAEJ",
+  "names": ["component", "props", "key"]
+}

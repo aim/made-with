@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { key = \"\", style = {} } = props;\r\n\r\n  return (\r\n    <area\r\n      style={{\r\n        width: 200,\r\n        height: 200,\r\n        displayType: \"flex\",\r\n        justifyContent: \"center\",\r\n        alignItems: \"center\",\r\n        padding: \"medium\",\r\n        cornerRadius: \"medium\",\r\n        borderStyle: \"dashed\",\r\n        borderWidth: \"medium\",\r\n        borderColor: \"outline\",\r\n        textRole: \"label\",\r\n        textSize: \"small\",\r\n        textAlign: \"center\",\r\n        ...style,\r\n      }}\r\n    >\r\n      <text value={key} />\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "yVAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,IAAAC,EAAM,GAAI,MAAAC,EAAQ,CAAC,CAAE,EAAIF,EAEjC,OACE,uCAAC,QACC,MAAOG,EAAA,CACL,MAAO,IACP,OAAQ,IACR,YAAa,OACb,eAAgB,SAChB,WAAY,SACZ,QAAS,SACT,aAAc,SACd,YAAa,SACb,YAAa,SACb,YAAa,UACb,SAAU,QACV,SAAU,QACV,UAAW,UACRD,IAGL,uCAAC,QAAK,MAAOD,EAAK,CACpB,CAEJ",
+  "names": ["component", "props", "key", "style", "__spreadValues"]
+}

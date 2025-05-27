@@ -1,0 +1,2325 @@
+[
+  {
+    "key": "color-primary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-on-primary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-primary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 10
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 85
+      }
+    }
+  },
+  {
+    "key": "color-on-primary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-primary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 10
+      }
+    }
+  },
+  {
+    "key": "color-on-primary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-primary-fill-fixed-dimmer",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 11,
+        "lightness": 8
+      }
+    }
+  },
+  {
+    "key": "color-on-primary-fill-fixed-lower-emphasis",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-secondary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 25
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-on-secondary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-secondary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 35
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 50
+      }
+    }
+  },
+  {
+    "key": "color-on-secondary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-secondary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 35
+      }
+    }
+  },
+  {
+    "key": "color-on-secondary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-secondary-fill-fixed-dimmer",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 6,
+        "lightness": 25
+      }
+    }
+  },
+  {
+    "key": "color-on-secondary-fill-fixed-lower-emphasis",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-tertiary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 1,
+        "lightness": 60
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 1,
+        "lightness": 45
+      }
+    }
+  },
+  {
+    "key": "color-on-tertiary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-tertiary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 2,
+        "lightness": 75
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 2,
+        "lightness": 30
+      }
+    }
+  },
+  {
+    "key": "color-on-tertiary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-tertiary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 2,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-on-tertiary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-tertiary-fill-fixed-dimmer",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 1,
+        "lightness": 68
+      }
+    }
+  },
+  {
+    "key": "color-on-tertiary-fill-fixed-lower-emphasis",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 90
+      }
+    }
+  },
+  {
+    "key": "color-quaternary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 60,
+        "lightness": 25
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 60,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-on-quaternary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-quaternary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 70,
+        "lightness": 30
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 65,
+        "lightness": 35
+      }
+    }
+  },
+  {
+    "key": "color-on-quaternary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-quaternary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 70,
+        "lightness": 30
+      }
+    }
+  },
+  {
+    "key": "color-on-quaternary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-quaternary-fill-fixed-dimmer",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 65,
+        "lightness": 27
+      }
+    }
+  },
+  {
+    "key": "color-on-quaternary-fill-fixed-lower-emphasis",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 30,
+        "lightness": 80
+      }
+    }
+  },
+  {
+    "key": "color-quinary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      }
+    }
+  },
+  {
+    "key": "color-on-quinary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-quinary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      }
+    }
+  },
+  {
+    "key": "color-on-quinary-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-quinary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      }
+    }
+  },
+  {
+    "key": "color-on-quinary-fill-fixed",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 60
+      }
+    }
+  },
+  {
+    "key": "color-quinary-fill-fixed-dimmer",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      }
+    }
+  },
+  {
+    "key": "color-on-quinary-fill-fixed-lower-emphasis",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 50
+      }
+    }
+  },
+  {
+    "key": "color-error",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 60,
+        "lightness": 60
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 60,
+        "lightness": 40
+      }
+    }
+  },
+  {
+    "key": "color-on-error",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-error-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 90,
+        "lightness": 95
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 90,
+        "lightness": 25
+      }
+    }
+  },
+  {
+    "key": "color-on-error-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 90,
+        "lightness": 35
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 90,
+        "lightness": 65
+      }
+    }
+  },
+  {
+    "key": "color-warning",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 70
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 65
+      }
+    }
+  },
+  {
+    "key": "color-on-warning",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-warning-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 95
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 57
+      }
+    }
+  },
+  {
+    "key": "color-on-warning-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 20
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 85
+      }
+    }
+  },
+  {
+    "key": "color-success",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 142,
+        "saturation": 65,
+        "lightness": 55
+      },
+      "dark": {
+        "hue": 142,
+        "saturation": 65,
+        "lightness": 45
+      }
+    }
+  },
+  {
+    "key": "color-on-success",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-success-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 142,
+        "saturation": 75,
+        "lightness": 80
+      },
+      "dark": {
+        "hue": 142,
+        "saturation": 75,
+        "lightness": 25
+      }
+    }
+  },
+  {
+    "key": "color-on-success-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 142,
+        "saturation": 85,
+        "lightness": 25
+      },
+      "dark": {
+        "hue": 142,
+        "saturation": 85,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-info",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 55
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 45
+      }
+    }
+  },
+  {
+    "key": "color-on-info",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-info-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 92
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 13
+      }
+    }
+  },
+  {
+    "key": "color-on-info-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 25
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-destructive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 100,
+        "lightness": 40
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 80,
+        "lightness": 50
+      }
+    }
+  },
+  {
+    "key": "color-on-destructive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-destructive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 100,
+        "lightness": 90
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 90,
+        "lightness": 12
+      }
+    }
+  },
+  {
+    "key": "color-on-destructive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 100,
+        "lightness": 30
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 100,
+        "lightness": 70
+      }
+    }
+  },
+  {
+    "key": "color-caution",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 55
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 45
+      }
+    }
+  },
+  {
+    "key": "color-on-caution",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-caution-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 85
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 20
+      }
+    }
+  },
+  {
+    "key": "color-on-caution-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 20
+      },
+      "dark": {
+        "hue": 38,
+        "saturation": 100,
+        "lightness": 80
+      }
+    }
+  },
+  {
+    "key": "color-positive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 130,
+        "saturation": 90,
+        "lightness": 28
+      },
+      "dark": {
+        "hue": 130,
+        "saturation": 90,
+        "lightness": 72
+      }
+    }
+  },
+  {
+    "key": "color-on-positive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-positive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 130,
+        "saturation": 80,
+        "lightness": 75
+      },
+      "dark": {
+        "hue": 130,
+        "saturation": 80,
+        "lightness": 30
+      }
+    }
+  },
+  {
+    "key": "color-on-positive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 130,
+        "saturation": 90,
+        "lightness": 20
+      },
+      "dark": {
+        "hue": 130,
+        "saturation": 90,
+        "lightness": 80
+      }
+    }
+  },
+  {
+    "key": "color-suggestive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 95,
+        "lightness": 30
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 95,
+        "lightness": 70
+      }
+    }
+  },
+  {
+    "key": "color-on-suggestive",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-suggestive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 95,
+        "lightness": 72
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 95,
+        "lightness": 22
+      }
+    }
+  },
+  {
+    "key": "color-on-suggestive-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 25
+      },
+      "dark": {
+        "hue": 210,
+        "saturation": 85,
+        "lightness": 75
+      }
+    }
+  },
+  {
+    "key": "color-surface-dimmest",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 70
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 10
+      }
+    }
+  },
+  {
+    "key": "color-surface",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 10
+      }
+    }
+  },
+  {
+    "key": "color-surface-brightest",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 28
+      }
+    }
+  },
+  {
+    "key": "color-surface-fill-lowest-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 95
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 5
+      }
+    }
+  },
+  {
+    "key": "color-surface-fill-low-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 92
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 8
+      }
+    }
+  },
+  {
+    "key": "color-surface-fill",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 88
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 13
+      }
+    }
+  },
+  {
+    "key": "color-surface-fill-high-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 85
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 20
+      }
+    }
+  },
+  {
+    "key": "color-surface-fill-highest-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 80
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 25
+      }
+    }
+  },
+  {
+    "key": "color-on-surface",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      }
+    }
+  },
+  {
+    "key": "color-on-surface-lower-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-inverse-surface",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 6,
+        "lightness": 20
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 17,
+        "lightness": 90
+      }
+    }
+  },
+  {
+    "key": "color-on-inverse-surface",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 33,
+        "lightness": 95
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 6,
+        "lightness": 20
+      }
+    }
+  },
+  {
+    "key": "color-inverse-primary",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 98
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 2
+      }
+    }
+  },
+  {
+    "key": "color-outline",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 4,
+        "lightness": 47
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 58
+      }
+    }
+  },
+  {
+    "key": "color-outline-lower-emphasis",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 73
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 27
+      }
+    }
+  },
+  {
+    "key": "color-muted",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 7,
+        "lightness": 35
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 7,
+        "lightness": 65
+      }
+    }
+  },
+  {
+    "key": "color-state-layer",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 75
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 3,
+        "lightness": 25
+      }
+    }
+  },
+  {
+    "key": "color-focus-ring",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 8,
+        "lightness": 12
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 17,
+        "lightness": 90
+      }
+    }
+  },
+  {
+    "key": "color-text-highlight",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 6,
+        "lightness": 20
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 17,
+        "lightness": 90
+      }
+    }
+  },
+  {
+    "key": "color-on-text-highlight",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 33,
+        "lightness": 95
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 6,
+        "lightness": 20
+      }
+    }
+  },
+  {
+    "key": "color-scrollbar-track",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0,
+        "alpha": 0
+      }
+    }
+  },
+  {
+    "key": "color-scrollbar-thumb",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 30
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 5,
+        "lightness": 70
+      }
+    }
+  },
+  {
+    "key": "color-scrim",
+    "type": "color",
+    "value": {
+      "light": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 96,
+        "alpha": 0.5
+      },
+      "dark": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 10,
+        "alpha": 0.5
+      }
+    }
+  },
+  {
+    "key": "color-shadow",
+    "type": "color",
+    "value": {
+      "fixed": {
+        "hue": 0,
+        "saturation": 0,
+        "lightness": 0
+      }
+    }
+  },
+  {
+    "key": "elevation-0",
+    "type": "elevation",
+    "value": null
+  },
+  {
+    "key": "elevation-1",
+    "type": "elevation",
+    "value": [
+      { "alpha": 0.2, "length": [0, 2, 1, -1] },
+      { "alpha": 0.14, "length": [0, 1, 1, 0] },
+      { "alpha": 0.12, "length": [0, 1, 3, 0] }
+    ]
+  },
+  {
+    "key": "elevation-2",
+    "type": "elevation",
+    "value": [
+      { "alpha": 0.2, "length": [0, 3, 3, -2] },
+      { "alpha": 0.14, "length": [0, 3, 4, 0] },
+      { "alpha": 0.12, "length": [0, 1, 8, 0] }
+    ]
+  },
+  {
+    "key": "elevation-3",
+    "type": "elevation",
+    "value": [
+      { "alpha": 0.2, "length": [0, 3, 5, -1] },
+      { "alpha": 0.14, "length": [0, 6, 10, 0] },
+      { "alpha": 0.12, "length": [0, 1, 18, 0] }
+    ]
+  },
+  {
+    "key": "elevation-4",
+    "type": "elevation",
+    "value": [
+      { "alpha": 0.2, "length": [0, 5, 5, -3] },
+      { "alpha": 0.14, "length": [0, 8, 10, 1] },
+      { "alpha": 0.12, "length": [0, 3, 14, 2] }
+    ]
+  },
+  {
+    "key": "elevation-5",
+    "type": "elevation",
+    "value": [
+      { "alpha": 0.2, "length": [0, 7, 8, -4] },
+      { "alpha": 0.14, "length": [0, 12, 17, 2] },
+      { "alpha": 0.12, "length": [0, 5, 22, 4] }
+    ]
+  },
+  {
+    "key": "motion-easing-standard",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0.2,
+      "y1": 0,
+      "x2": 0,
+      "y2": 1
+    }
+  },
+  {
+    "key": "motion-easing-standard-decelerate",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0,
+      "y1": 0,
+      "x2": 0,
+      "y2": 1
+    }
+  },
+  {
+    "key": "motion-easing-standard-accelerate",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0.3,
+      "y1": 0,
+      "x2": 1,
+      "y2": 1
+    }
+  },
+  {
+    "key": "motion-easing-emphasized",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0.4,
+      "y1": 0,
+      "x2": 0.2,
+      "y2": 1
+    }
+  },
+  {
+    "key": "motion-easing-emphasized-decelerate",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0.05,
+      "y1": 0.7,
+      "x2": 0.1,
+      "y2": 1
+    }
+  },
+  {
+    "key": "motion-easing-emphasized-accelerate",
+    "type": "motion",
+    "kind": "easing",
+    "value": {
+      "x1": 0.3,
+      "y1": 0,
+      "x2": 0.8,
+      "y2": 0.15
+    }
+  },
+  {
+    "key": "motion-duration-short-1",
+    "type": "motion",
+    "kind": "duration",
+    "value": 50
+  },
+  {
+    "key": "motion-duration-short-2",
+    "type": "motion",
+    "kind": "duration",
+    "value": 100
+  },
+  {
+    "key": "motion-duration-short-3",
+    "type": "motion",
+    "kind": "duration",
+    "value": 150
+  },
+  {
+    "key": "motion-duration-short-4",
+    "type": "motion",
+    "kind": "duration",
+    "value": 200
+  },
+  {
+    "key": "motion-duration-medium-1",
+    "type": "motion",
+    "kind": "duration",
+    "value": 250
+  },
+  {
+    "key": "motion-duration-medium-2",
+    "type": "motion",
+    "kind": "duration",
+    "value": 300
+  },
+  {
+    "key": "motion-duration-medium-3",
+    "type": "motion",
+    "kind": "duration",
+    "value": 350
+  },
+  {
+    "key": "motion-duration-medium-4",
+    "type": "motion",
+    "kind": "duration",
+    "value": 400
+  },
+  {
+    "key": "motion-duration-long-1",
+    "type": "motion",
+    "kind": "duration",
+    "value": 450
+  },
+  {
+    "key": "motion-duration-long-2",
+    "type": "motion",
+    "kind": "duration",
+    "value": 500
+  },
+  {
+    "key": "motion-duration-long-3",
+    "type": "motion",
+    "kind": "duration",
+    "value": 550
+  },
+  {
+    "key": "motion-duration-long-4",
+    "type": "motion",
+    "kind": "duration",
+    "value": 600
+  },
+  {
+    "key": "motion-duration-extra-long-1",
+    "type": "motion",
+    "kind": "duration",
+    "value": 700
+  },
+  {
+    "key": "motion-duration-extra-long-2",
+    "type": "motion",
+    "kind": "duration",
+    "value": 800
+  },
+  {
+    "key": "motion-duration-extra-long-3",
+    "type": "motion",
+    "kind": "duration",
+    "value": 900
+  },
+  {
+    "key": "motion-duration-extra-long-4",
+    "type": "motion",
+    "kind": "duration",
+    "value": 1000
+  },
+  {
+    "key": "screen-breakpoint-extra-small",
+    "type": "screen",
+    "value": 96
+  },
+  {
+    "key": "screen-breakpoint-small",
+    "type": "screen",
+    "value": 300
+  },
+  {
+    "key": "screen-breakpoint-medium",
+    "type": "screen",
+    "value": 768
+  },
+  {
+    "key": "screen-breakpoint-large",
+    "type": "screen",
+    "value": 1024
+  },
+  {
+    "key": "screen-breakpoint-extra-large",
+    "type": "screen",
+    "value": 1920
+  },
+  {
+    "key": "shape-corner-radius-extra-small",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 2
+  },
+  {
+    "key": "shape-corner-radius-small",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 4
+  },
+  {
+    "key": "shape-corner-radius-medium",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 8
+  },
+  {
+    "key": "shape-corner-radius-large",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 16
+  },
+  {
+    "key": "shape-corner-radius-extra-large",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 32
+  },
+  {
+    "key": "shape-outline-width-small",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 1
+  },
+  {
+    "key": "shape-outline-width-medium",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 2
+  },
+  {
+    "key": "shape-outline-width-large",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 3
+  },
+  {
+    "key": "shape-outline-style",
+    "type": "shape",
+    "kind": "style",
+    "value": "solid"
+  },
+  {
+    "key": "shape-focus-ring-width",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 1
+  },
+  {
+    "key": "shape-focus-ring-style",
+    "type": "shape",
+    "kind": "style",
+    "value": "solid"
+  },
+  {
+    "key": "shape-focus-ring-offset",
+    "type": "shape",
+    "kind": "pixel",
+    "value": 2
+  },
+  {
+    "key": "space-3-extra-small",
+    "type": "space",
+    "value": {
+      "min": 1.8,
+      "max": 2.2
+    }
+  },
+  {
+    "key": "space-2-extra-small",
+    "type": "space",
+    "value": {
+      "min": 2.7,
+      "max": 3.3
+    }
+  },
+  {
+    "key": "space-extra-small",
+    "type": "space",
+    "value": {
+      "min": 4.5,
+      "max": 5.5
+    }
+  },
+  {
+    "key": "space-small",
+    "type": "space",
+    "value": {
+      "min": 7.2,
+      "max": 8.8
+    }
+  },
+  {
+    "key": "space-medium",
+    "type": "space",
+    "value": {
+      "min": 10.8,
+      "max": 13.2
+    }
+  },
+  {
+    "key": "space-large",
+    "type": "space",
+    "value": {
+      "min": 16.2,
+      "max": 19.8
+    }
+  },
+  {
+    "key": "space-extra-large",
+    "type": "space",
+    "value": {
+      "min": 24.3,
+      "max": 29.7
+    }
+  },
+  {
+    "key": "space-2-extra-large",
+    "type": "space",
+    "value": {
+      "min": 36.0,
+      "max": 44.0
+    }
+  },
+  {
+    "key": "space-3-extra-large",
+    "type": "space",
+    "value": {
+      "min": 54.0,
+      "max": 66.0
+    }
+  },
+  {
+    "key": "type-display-large-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-display-large-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-display-large-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 50,
+      "max": 70
+    }
+  },
+  {
+    "key": "type-display-large-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-display-large-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-display-medium-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-display-medium-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-display-medium-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 45,
+      "max": 65
+    }
+  },
+  {
+    "key": "type-display-medium-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-display-medium-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-display-small-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-display-small-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-display-small-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 40,
+      "max": 60
+    }
+  },
+  {
+    "key": "type-display-small-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-display-small-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-headline-large-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-headline-large-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-headline-large-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 35,
+      "max": 45
+    }
+  },
+  {
+    "key": "type-headline-large-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-headline-large-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-headline-medium-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-headline-medium-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-headline-medium-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 30,
+      "max": 40
+    }
+  },
+  {
+    "key": "type-headline-medium-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-headline-medium-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-headline-small-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-headline-small-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-headline-small-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 25,
+      "max": 35
+    }
+  },
+  {
+    "key": "type-headline-small-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-headline-small-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-title-large-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-title-large-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-title-large-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 20,
+      "max": 26
+    }
+  },
+  {
+    "key": "type-title-large-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-title-large-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-title-medium-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-title-medium-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 500
+  },
+  {
+    "key": "type-title-medium-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 18,
+      "max": 22
+    }
+  },
+  {
+    "key": "type-title-medium-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-title-medium-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-title-small-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-title-small-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 500
+  },
+  {
+    "key": "type-title-small-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 14,
+      "max": 20
+    }
+  },
+  {
+    "key": "type-title-small-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-title-small-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-body-large-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-body-large-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-body-large-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 16,
+      "max": 22
+    }
+  },
+  {
+    "key": "type-body-large-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-body-large-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-body-medium-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-body-medium-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-body-medium-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 14,
+      "max": 20
+    }
+  },
+  {
+    "key": "type-body-medium-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-body-medium-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-body-small-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-body-small-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 400
+  },
+  {
+    "key": "type-body-small-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 12,
+      "max": 18
+    }
+  },
+  {
+    "key": "type-body-small-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-body-small-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-label-large-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-label-large-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 500
+  },
+  {
+    "key": "type-label-large-font-weight-prominent",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 700
+  },
+  {
+    "key": "type-label-large-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 14,
+      "max": 18
+    }
+  },
+  {
+    "key": "type-label-large-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-label-large-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-label-medium-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-label-medium-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 500
+  },
+  {
+    "key": "type-label-medium-font-weight-prominent",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 700
+  },
+  {
+    "key": "type-label-medium-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 12,
+      "max": 16
+    }
+  },
+  {
+    "key": "type-label-medium-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-label-medium-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  },
+  {
+    "key": "type-label-small-font-family",
+    "type": "type",
+    "kind": "font-family",
+    "value": "roboto-flex-font"
+  },
+  {
+    "key": "type-label-small-font-weight",
+    "type": "type",
+    "kind": "font-weight",
+    "value": 500
+  },
+  {
+    "key": "type-label-small-font-size",
+    "type": "type",
+    "kind": "font-size",
+    "value": {
+      "min": 10,
+      "max": 14
+    }
+  },
+  {
+    "key": "type-label-small-letter-spacing",
+    "type": "type",
+    "kind": "letter-spacing",
+    "value": 0
+  },
+  {
+    "key": "type-label-small-line-height",
+    "type": "type",
+    "kind": "line-height",
+    "value": 1.5
+  }
+]

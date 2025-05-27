@@ -1,0 +1,90 @@
+{
+  "id": "made-with",
+  "title": "Made With",
+  "description": "...",
+  "products": [
+    {
+      "id": "made-with-logo",
+      "title": "Made With",
+      "description": "...",
+      "type": "logo"
+    },
+    {
+      "id": "material-icon-set",
+      "title": "Material",
+      "description": "...",
+      "type": "icon-set"
+    },
+    {
+      "id": "roboto-flex-font",
+      "title": "Roboto Flex",
+      "description": "...",
+      "type": "font"
+    },
+    {
+      "id": "404-vector-graphic",
+      "title": "404",
+      "description": "...",
+      "type": "vector-graphic"
+    },
+    {
+      "id": "soon-vector-graphic",
+      "title": "Soon",
+      "description": "...",
+      "type": "vector-graphic"
+    },
+    {
+      "id": "abstract-vector-graphic",
+      "title": "Abstract",
+      "description": "...",
+      "type": "vector-graphic"
+    },
+    {
+      "id": "water-raster-graphic",
+      "title": "Water",
+      "description": "...",
+      "type": "raster-graphic"
+    },
+    {
+      "id": "sky-photo-graphic",
+      "title": "Sky",
+      "description": "...",
+      "type": "photo-graphic"
+    },
+    {
+      "id": "material-design-system",
+      "title": "Material",
+      "description": "...",
+      "type": "design-system",
+      "dependencies": {
+        "logo": "made-with-logo",
+        "iconSet": "material-icon-set",
+        "fonts": ["roboto-flex-font"]
+      }
+    },
+    {
+      "id": "todos-data-management-system",
+      "title": "Todos",
+      "description": "...",
+      "type": "data-management-system"
+    },
+    {
+      "id": "made-with-web-app",
+      "title": "Made With",
+      "description": "...",
+      "type": "web-app",
+      "dependencies": {
+        "designSystem": "material-design-system",
+        "dataManagementSystem": "todos-data-management-system",
+        "vectorGraphics": [
+          "404-vector-graphic",
+          "soon-vector-graphic",
+          "abstract-vector-graphic"
+        ],
+        "rasterGraphics": ["water-raster-graphic"],
+        "photoGraphics": ["sky-photo-graphic"]
+      },
+      "domains": ["made-with.aim.studio"]
+    }
+  ]
+}

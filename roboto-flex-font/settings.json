@@ -1,0 +1,70 @@
+{
+  "family": "Roboto Flex",
+  "category": "sans-serif",
+  "feelings": ["business", "calm", "stiff"],
+  "technology": "variable",
+  "style": "normal",
+  "opticalSize": "auto",
+  "weight": {
+    "min": 100,
+    "max": 1000,
+    "default": 400
+  },
+  "variations": {
+    "slnt": {
+      "min": -10,
+      "max": 0,
+      "default": 0
+    },
+    "wdth": {
+      "min": 75,
+      "max": 125,
+      "default": 100
+    },
+    "GRAD": {
+      "min": -200,
+      "max": 150,
+      "default": 0
+    },
+    "XOPQ": {
+      "min": 27,
+      "max": 175,
+      "default": 96
+    },
+    "XTRA": {
+      "min": 323,
+      "max": 603,
+      "default": 468
+    },
+    "YOPQ": {
+      "min": 25,
+      "max": 150,
+      "default": 79
+    },
+    "YTAS": {
+      "min": 649,
+      "max": 854,
+      "default": 750
+    },
+    "YTDE": {
+      "min": -305,
+      "max": -98,
+      "default": -203
+    },
+    "YTFI": {
+      "min": 560,
+      "max": 788,
+      "default": 738
+    },
+    "YTLC": {
+      "min": 416,
+      "max": 570,
+      "default": 514
+    },
+    "YTUC": {
+      "min": 528,
+      "max": 760,
+      "default": 712
+    }
+  }
+}

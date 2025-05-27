@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function page() {\r\n  return <soon-page />;\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,GAAO,CAC7B,OAAO,uCAAC,gBAAU,CACpB",
+  "names": ["page"]
+}

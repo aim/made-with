@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { children, soon = false } = props;\r\n\r\n  return (\r\n    <heading\r\n      level={2}\r\n      style={{\r\n        displayType: \"flex\",\r\n        justifyContent: \"start\",\r\n        alignItems: \"center\",\r\n        gutter: \"medium\",\r\n        textRole: \"title\",\r\n        textSize: \"small\",\r\n      }}\r\n    >\r\n      {children}\r\n      {soon ? <vector-graphic name='soon' style={{ width: 30 }} /> : \"\"}\r\n    </heading>\r\n  );\r\n}\r\n"],
+  "mappings": "AAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,SAAAC,EAAU,KAAAC,EAAO,EAAM,EAAIF,EAEnC,OACE,uCAAC,WACC,MAAO,EACP,MAAO,CACL,YAAa,OACb,eAAgB,QAChB,WAAY,SACZ,OAAQ,SACR,SAAU,QACV,SAAU,OACZ,GAECC,EACAC,EAAO,uCAAC,kBAAe,KAAK,OAAO,MAAO,CAAE,MAAO,EAAG,EAAG,EAAK,EACjE,CAEJ",
+  "names": ["component", "props", "children", "soon"]
+}

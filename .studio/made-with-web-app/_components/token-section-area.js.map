@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["<stdin>"],
+  "sourcesContent": ["export default function component(props) {\r\n  const { title = \"Title\", style = {}, children } = props;\r\n\r\n  return (\r\n    <area type='section'>\r\n      <heading level='2' style={{ marginBlockEnd: \"2-extra-large\" }}>\r\n        <text value={title} />\r\n      </heading>\r\n      <area\r\n        style={{\r\n          displayType: \"flex\",\r\n          flexDirection: \"column\",\r\n          justifyContent: \"center\",\r\n          alignItems: \"center\",\r\n          paddingBlockEnd: \"2-extra-large\",\r\n          gutter: \"medium\",\r\n          ...style,\r\n        }}\r\n      >\r\n        {children}\r\n      </area>\r\n    </area>\r\n  );\r\n}\r\n"],
+  "mappings": "yVAAA,wBAAwBA,EAAUC,EAAO,CACvC,KAAM,CAAE,MAAAC,EAAQ,QAAS,MAAAC,EAAQ,CAAC,EAAG,SAAAC,CAAS,EAAIH,EAElD,OACE,uCAAC,QAAK,KAAK,WACT,uCAAC,WAAQ,MAAM,IAAI,MAAO,CAAE,eAAgB,eAAgB,GAC1D,uCAAC,QAAK,MAAOC,EAAO,CACtB,EACA,uCAAC,QACC,MAAOG,EAAA,CACL,YAAa,OACb,cAAe,SACf,eAAgB,SAChB,WAAY,SACZ,gBAAiB,gBACjB,OAAQ,UACLF,IAGJC,CACH,CACF,CAEJ",
+  "names": ["component", "props", "title", "style", "children", "__spreadValues"]
+}
