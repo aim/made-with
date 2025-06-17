@@ -1,13 +1,7 @@
 export default function component(props) {
-  const elevation = view.state(0);
   const scroll = view.scroll();
-
-  scroll.subscribe((value) => {
-    if (value.top > 0) {
-      elevation.value = 2;
-    } else {
-      elevation.value = 0;
-    }
+  const elevation = view.state(() => {
+    return scroll.value.top > 0 ? 2 : 0;
   });
 
   const store = view.store("app");
